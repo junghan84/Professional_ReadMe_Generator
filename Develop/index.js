@@ -106,7 +106,7 @@ const questions = [
     name: 'contributing',
     message: 'Who are the contributing of this projects?',
     validate: contributinglInput => {
-        if (csontributinglInput) {
+        if (contributinglInput) {
             return true;
         } else {
             console.log('Please enter contributing of this projects!');
@@ -118,8 +118,8 @@ const questions = [
     type: 'input',
     name: 'tests',
     message: 'Is there a test included?',
-    validate: contributinglInput => {
-        if (contributinglInput) {
+    validate: testlInput => {
+        if (testlInput) {
             return true;
         } else {
             console.log('Is there a test included?');
