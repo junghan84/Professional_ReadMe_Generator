@@ -1,4 +1,4 @@
-# js 
+# README Generator using node.js 
 
   ## Table of Contents 
 * [Description](#description)
@@ -16,20 +16,20 @@
 * [Questions](#questions)
 
 ## [Installation]
-sj
+npm install
 
 ## Usage
-sjasdf
+UW coding bootscamp 
 
 ## Contributing
-asdfj
+Junghan seo
 
 ## License
  
-  This project is licensed under the agpl license.
+  This project is licensed under the mit license.
 
 ## Tests
-sdaf
+NO
 
 
   
