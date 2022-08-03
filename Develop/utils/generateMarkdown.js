@@ -15,7 +15,7 @@ function renderLicenseLink(confirmLicenses) {
 // If there is no license, return an empty string
 function renderLicenseSection(confirmLicenses,license) {
  if(confirmLicenses === true){
-  return `## License 
+  return ` 
   This project is licensed under the ${license} license.`
 }
   return "";
@@ -37,24 +37,24 @@ function generateMarkdown(data) {
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
+* [Tests](#tests)b
 
 * [Questions](#questions)
 
-##[Installation]
+## [Installation]
 ${data.installation}
 
 ## Usage
 ${data.usage}
 
-##Contributing
+## Contributing
 ${data.contributing}
 
 ## License
 ${renderLicenseSection(data.confirmLicenses,data.license)}
 
-##Tests
-#{data.tests}
+## Tests
+${data.tests}
 
 
   

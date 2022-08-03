@@ -1,4 +1,4 @@
-# README Gener using node.js 
+# js 
 
   ## Table of Contents 
 * [Description](#description)
@@ -11,25 +11,25 @@
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
+* [Tests](#tests)b
 
 * [Questions](#questions)
 
-##[Installation]
-npm install inquirer is required
+## [Installation]
+sj
 
 ## Usage
-UW Coding Bootscamp
+sjasdf
 
-##Contributing
-JungHan Seo
+## Contributing
+asdfj
 
 ## License
-## License 
-  This project is licensed under the mit license.
+ 
+  This project is licensed under the agpl license.
 
-##Tests
-#{data.tests}
+## Tests
+sdaf
 
 
   
